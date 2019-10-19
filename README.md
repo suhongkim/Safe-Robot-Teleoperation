@@ -8,7 +8,7 @@ Implementation of a keyboard based teleoperation system for the turtlebot3 robot
 sudo apt-get install libncurses5 libncurses5-dev
 ```
 ## Results
-![Turtlebot](./screenshots/turtlebot+demo.gif)
+![Turtlebot](./screenshots/turtlebot_demo.gif)
 
 
 ## Implementation
